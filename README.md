@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=python,docker,tableau,powerbi,apachespark,GCP,AWS,hadoop,hive,js,git,github,mysql,heroku,postgres,tensorflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,docker,tableau,powerbi,apachespark,gcp,aws,hadoop,hive,js,cs,git,github,mysql,cassandra,flask,heroku,postgres,tensorflow,pytorch,vscode)](https://skillicons.dev)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
