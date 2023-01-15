@@ -8,6 +8,11 @@
 
 # 💻 Tech Stack:
 
+## Language :
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev) <img width="50" height="50" src="https://user-images.githubusercontent.com/75730717/212503437-aa1eb2a7-ec73-4a04-a9b5-099a1e0eefd9.png"/>
+
+
 [![My Skills](https://skillicons.dev/icons?i=python,docker,tableau,powerbi,apachespark,gcp,aws,hadoop,hive,js,cs,git,github,mysql,cassandra,flask,heroku,postgres,tensorflow,pytorch,vscode)](https://skillicons.dev)
 
 ### ✍️ Random Dev Quote
