@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m @Arjunpawar619<br>👀 I’m interested in Data Science.<br>🔭 I am working on Docker, Apache Spark, GCP, Hadoop, Hive, Tableau & Power BI<br>🌱 I’m currently learning about AI and ML.<br>📫 How to reach me (arjunp6713@gmail.com)
+👋 Hi, I’m @Arjunpawar619<br>👀 I’m interested in Data Science.<br>🔭 I am working on Docker, Apache Spark, GCP, Hadoop, Hive, GCP, Tableau & Power BI<br>🌱 I’m currently learning about AI and ML.<br>📫 How to reach me (arjunp6713@gmail.com)
 
 
 ## 🌐 Socials:
